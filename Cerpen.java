@@ -8,7 +8,7 @@ public class Cerpen {
 
     // Constructor
     public Cerpen() {
-        System.out.println("Object Cerpen telah diciptakan, constructor berjalan");
+        System.out.println("Object telah diciptakan, constructor berjalan");
     }
 
     // Methods
