@@ -3,6 +3,8 @@ public class Main {
         String variableString;
         Pengguna pengguna = new Pengguna();
         Buku buku = new Buku();
+        Komik komik = new Komik();
+        Cerpen cerpen = new Cerpen();
     }
 
 }
